@@ -15,3 +15,7 @@
 ## [Day 4: Ceres Search](https://adventofcode.com/2024/day/4)
 
 - ⭐⭐ typescript (Deno)
+
+## [Day 5: Print Queue](https://adventofcode.com/2024/day/5)
+
+- ⭐⭐ typescript (Deno)
