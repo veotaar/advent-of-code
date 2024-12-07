@@ -1,4 +1,4 @@
-# Advent of Code 2024 (12/50 ⭐)
+# Advent of Code 2024 (14/50 ⭐)
 
 ## [Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1)
 
@@ -21,5 +21,9 @@
 - ⭐⭐ typescript (Deno)
 
 ## [Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6)
+
+- ⭐⭐ typescript (Deno)
+
+## [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)
 
 - ⭐⭐ typescript (Deno)
