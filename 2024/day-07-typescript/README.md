@@ -3,3 +3,7 @@
 ```sh
 deno run --allow-read solution.ts
 ```
+
+```sh
+deno run --allow-read solution2.ts
+```
